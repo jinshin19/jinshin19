@@ -12,5 +12,5 @@
    <li><a href="https://www.facebook.com/jinshin.19">Facebook</a></li>
    <li><a href="https://www.upwork.com/freelancers/~01a5e1d8dc372e83b9">Upwork</a></li>
    <li><a href="https://www.freelancer.com/u/jinshin19">Freelancer</a></li>
-   <li><a href="www.linkedin.com/in/jinshin19">Linkedin</a></li>
+   <li><a href="https://www.linkedin.com/in/jinshin19">Linkedin</a></li>
  </ul>
