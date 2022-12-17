@@ -12,7 +12,7 @@
  - <a href="https://www.freelancer.com/u/jinshin19">Freelancer</a> <br>
  - <a href="https://www.linkedin.com/in/jinshin19">Linkedin</a>
 
- # Personal Project:
+ # Personal Projects:
  <b> Restaurant: </b>
   - <a href="https://github.com/jinshin19/restaurant"> Repository </a> <br>
   - <a href="https://jinshin19.github.io/restaurant/"> Demo Link </a> <br>
