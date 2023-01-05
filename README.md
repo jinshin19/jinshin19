@@ -28,3 +28,7 @@
  <b> Sign-Up / Login: </b>
   - <a href="https://github.com/jinshin19/Sign-Up-Login"> Repository </a> <br>
   - <a href="https://jinshin19.github.io/Sign-Up-Login/"> Demo Link </a> <br>
+
+<b> Pirated: </b>
+  - <a href="https://github.com/jinshin19/Pirated"> Repository </a> <br>
+  - <a href="https://jinshin19.github.io/Pirated"> Demo Link </a> <br>
